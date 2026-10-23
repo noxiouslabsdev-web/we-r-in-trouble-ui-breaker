@@ -1,0 +1,33 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.tmp
+.DS_Store
+
+# IDE and local settings
+.vs/
+
+# Unity logs and generated output
+*.log
+*build*_log.txt
+*compile*_log.txt
+*rebuild*_log.txt
+*organize*_log.txt
+build_result.txt
+unity_compile_log2.txt
+unity_corrected2_log.txt
+unity_corrected_game_log.txt
+unity_corrected_log.txt
+unity_finalgame_log.txt
